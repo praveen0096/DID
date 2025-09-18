@@ -6,7 +6,7 @@
   "id": "did:web:praveen0096.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkpAz9oYGXGf4BE1Y94fieAHBqnkNs7LT5VYYM4dBtKeWy",
+      "publicKeyMultibase": "z6MkopJKXAvC4hGP9oxgMYvwC7S8QLgFrxC5oawEJrJc9WHq",
       "controller": "did:web:praveen0096.github.io:DID:dev1",
       "id": "did:web:praveen0096.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
